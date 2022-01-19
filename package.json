@@ -1,0 +1,19 @@
+{
+  "devDependencies": {
+    "@babel/cli": "^7.15.7",
+    "@babel/core": "^7.15.5",
+    "@babel/preset-env": "^7.15.6",
+    "babel-loader": "^8.2.2",
+    "webpack": "^5.52.1",
+    "webpack-dev-server": "^4.2.1"
+  },
+  "name": "ds_and_algo",
+  "version": "1.0.0",
+  "description": "JavaScript Data Structures and Algorithms practice",
+  "main": "index.js",
+  "scripts": {
+    "babel": "babel src -d dist"
+  },
+  "author": "Manuj Gogoi",
+  "license": "ISC"
+}
